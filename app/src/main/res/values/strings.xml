@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CoordinatorLayoutDemo</string>
+    <string name="abour_coordinator_layout">The Design library introduces CoordinatorLayout, a layout which provides an additional level of control over touch events between child views, something which many of the components in the Design library take advantage of.Android CoordinatorLayout is a super-powered FrameLayout. It has a lot more to offer than it seems. It has additional level of control over it’s child views. It coordinates the animations and transitions of child views with one another.
+        \nThe Design library introduces CoordinatorLayout, a layout which provides an additional level of control over touch events between child views, something which many of the components in the Design library take advantage of.Android CoordinatorLayout is a super-powered FrameLayout. It has a lot more to offer than it seems. It has additional level of control over it’s child views. It coordinates the animations and transitions of child views with one another.</string>
 </resources>
